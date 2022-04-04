@@ -154,7 +154,11 @@ hr {
 #author span:hover {
     color: hsl(178, 100%, 50%);
 }
+.context h2{cursor:pointer}
 
+#author div span{cursor:pointer}
+
+.img{cursor:pointer}
 @media screen and (max-width: 180px) {
     .main {
         padding: 0 20px;
